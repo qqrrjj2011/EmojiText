@@ -30,7 +30,7 @@ public class EmojiBuilder  {
 
 	private const string OutputPath = "Assets/Emoji/Output/";
 	private const string InputPath = "/Emoji/Input/";
-
+//ufjhggjhjh
 	private static readonly Vector2[] AtlasSize = new Vector2[]{
 		new Vector2(32,32),
 		new Vector2(64,64),
